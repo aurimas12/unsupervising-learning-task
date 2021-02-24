@@ -5,3 +5,4 @@
     - Numpy 
     - Matplotlib
     - Scipy
+    - Statsmodels

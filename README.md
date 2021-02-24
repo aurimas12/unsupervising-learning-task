@@ -6,3 +6,4 @@
     - Matplotlib
     - Scipy
     - Statsmodels
+    - Seaborn

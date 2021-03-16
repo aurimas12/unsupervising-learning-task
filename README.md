@@ -7,3 +7,4 @@
     - Scipy
     - Statsmodels
     - Seaborn
+    - KNeighborsClassifier

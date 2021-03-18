@@ -1,10 +1,12 @@
 # Unsupervising learning task
 
 <!-- Libraries -->
+
     - Pandas
-    - Numpy 
+    - Numpy
     - Matplotlib
     - Scipy
     - Statsmodels
     - Seaborn
     - KNeighborsClassifier
+    - PCA

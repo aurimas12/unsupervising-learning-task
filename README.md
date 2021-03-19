@@ -1,5 +1,7 @@
 # Unsupervising learning task
 
+> Solving unsupervising learning task
+
 <!-- Libraries -->
 
     - Pandas
@@ -10,3 +12,14 @@
     - Seaborn
     - KNeighborsClassifier
     - PCA
+
+## Notebooks
+
+    * Master statistics & machine learning: intuition, math, code:
+    ```sh
+    math and stats.ipynb
+    ```
+    * Master statistics & machine learning: intuition, math, code:
+    ```sh
+    linear algebra.ipynb
+    ```

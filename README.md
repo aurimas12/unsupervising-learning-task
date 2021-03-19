@@ -16,10 +16,10 @@
 ## Notebooks
 
     * Master statistics & machine learning: intuition, math, code:
-    ```sh
-    math and stats.ipynb
-    ```
+        ```sh
+        math and stats.ipynb
+        ```
     * Master statistics & machine learning: intuition, math, code:
-    ```sh
-    linear algebra.ipynb
-    ```
+        ```sh
+        linear algebra.ipynb
+        ```

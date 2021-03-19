@@ -19,7 +19,7 @@
     ```sh
     math and stats.ipynb
     ```
-* Master statistics & machine learning: intuition, math, code:
+* Basic linear algebra:
     ```sh
     linear algebra.ipynb
     ```
